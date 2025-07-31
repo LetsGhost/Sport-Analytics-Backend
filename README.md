@@ -95,7 +95,6 @@ express-api-storage/
 │   └── apiKey.js         # API key check middleware
 ├── routes/
 │   └── data.js           # GET/POST routes
-├── initStorage.js        # Ensures file and folder exist
 ├── server.js             # App entry point
 ├── .env                  # Contains API key
 ├── .gitignore
